@@ -1,4 +1,4 @@
-# JR-JSQUAD-M3-FP
+# JR-JSQUAD-M3-FP-Tetiana_H
 
 Final project of module 3 for the **j-squad** group: a Java web application (Servlets + JSP) deployed on Tomcat.
 
